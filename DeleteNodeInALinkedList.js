@@ -20,4 +20,5 @@
 /**
  * First check if the node is null or its next is null. If so, we return null.
  * Set the node’s value to its next’s value.
+ * Finaly set the node’s next to its next’s next.
  */
