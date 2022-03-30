@@ -13,4 +13,5 @@
     if(node == null || node.next == null){
         return null;
     }
+    node.val = node.next.val;
 };
