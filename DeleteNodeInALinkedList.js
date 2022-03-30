@@ -11,6 +11,6 @@
  */
  var deleteNode = function(node) {
     if(node == null || node.next == null){
-       
+        return null;
     }
 };
